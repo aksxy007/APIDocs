@@ -883,3 +883,5 @@
 [2025-07-05 21:34:57] [INFO] [db.db_connection] Connected to MongoDB.
 [2025-07-05 21:34:59] [INFO] [db.db_connection] MongoDB ping successful.
 [2025-07-05 21:35:06] [INFO] [db.db_connection] MongoDB connection closed.
+[2025-07-05 21:35:07] [INFO] [db.db_connection] Connected to MongoDB.
+[2025-07-05 21:35:09] [INFO] [db.db_connection] MongoDB ping successful.

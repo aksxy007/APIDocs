@@ -69,3 +69,5 @@
 [2025-07-05 21:29:19] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
 [2025-07-05 21:33:14] [INFO] [routes.api_doc_generation] Saving test cases for repo: https://github.com/aksxy007/instagreet-mern, branch: None, user: None
 [2025-07-05 21:33:14] [INFO] [routes.api_doc_generation] Test cases inserted for https://github.com/aksxy007/instagreet-mern
+[2025-07-05 21:35:11] [INFO] [routes.api_doc_generation] Saving code snippets for repo: https://github.com/aksxy007/instagreet-mern, branch: None, user: None
+[2025-07-05 21:35:11] [INFO] [routes.api_doc_generation] code snippets inserted for https://github.com/aksxy007/instagreet-mern
