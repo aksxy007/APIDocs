@@ -1,0 +1,1037 @@
+[2025-06-29 16:53:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint batches found in the state.
+[2025-06-29 16:54:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 16:54:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 16:54:34] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: get_llm_response() takes 1 positional argument but 2 were given
+[2025-06-29 16:54:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 16:54:34] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: get_llm_response() takes 1 positional argument but 2 were given
+[2025-06-29 16:55:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 16:55:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 16:55:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 16:55:14] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: 'list' object has no attribute 'get'
+[2025-06-29 16:55:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 16:55:18] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 24 test cases from batch 2.
+[2025-06-29 16:55:18] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: 'list' object has no attribute 'get'
+[2025-06-29 16:55:18] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 0 endpoints.
+[2025-06-29 16:56:43] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 16:56:43] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 16:56:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 16:56:48] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: 'list' object has no attribute 'get'
+[2025-06-29 16:56:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 16:56:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 16:56:52] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: 'list' object has no attribute 'get'
+[2025-06-29 16:56:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 0 endpoints.
+[2025-06-29 16:58:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 16:58:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 16:58:08] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: Invalid JSON response: Expecting ':' delimiter: line 10 column 47 (char 261)
+[2025-06-29 16:58:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 16:58:12] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: Invalid JSON response: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+[2025-06-29 16:58:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 0 endpoints.
+[2025-06-29 16:59:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 16:59:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 16:59:33] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: Invalid JSON response: Expecting ':' delimiter: line 10 column 47 (char 261)
+[2025-06-29 16:59:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 16:59:37] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: Invalid JSON response: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+[2025-06-29 16:59:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 0 endpoints.
+[2025-06-29 17:00:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:00:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:00:37] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: Invalid JSON response: Expecting ':' delimiter: line 10 column 47 (char 261)
+[2025-06-29 17:00:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:00:40] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:00:40] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 28 endpoints.
+[2025-06-29 17:02:43] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:02:43] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:02:50] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:02:50] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:02:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:02:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:03:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:03:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:03:58] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:03:58] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:04:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:04:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:05:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:05:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:05:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:05:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:05:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:05:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:06:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:06:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:06:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:06:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:06:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:06:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:07:38] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:07:38] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:07:45] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:07:45] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:07:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:07:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:09:45] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:09:45] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:09:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:09:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:09:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:09:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:10:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:10:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:11:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:11:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:11:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:11:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:11:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:11:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:12:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:12:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:12:09] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:12:09] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 17:16:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 17:16:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 39 endpoints...
+[2025-06-29 17:17:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 39 test cases from batch 1.
+[2025-06-29 17:17:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 28 endpoints...
+[2025-06-29 17:17:09] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 28 test cases from batch 2.
+[2025-06-29 17:17:09] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 67 endpoints.
+[2025-06-29 20:43:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 20:43:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 36 endpoints...
+[2025-06-29 20:43:32] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 36 test cases from batch 1.
+[2025-06-29 20:43:32] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 32 endpoints...
+[2025-06-29 20:43:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 2.
+[2025-06-29 20:43:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-29 20:43:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 20:43:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 36 endpoints...
+[2025-06-29 20:44:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 36 test cases from batch 1.
+[2025-06-29 20:44:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 32 endpoints...
+[2025-06-29 20:44:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 2.
+[2025-06-29 20:44:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-29 20:46:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-06-29 20:46:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2 with 36 endpoints...
+[2025-06-29 20:46:16] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 36 test cases from batch 1.
+[2025-06-29 20:46:16] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2 with 32 endpoints...
+[2025-06-29 20:46:22] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 2.
+[2025-06-29 20:46:22] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 21:50:21] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 21:50:21] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 21:50:26] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 1: 'str' object has no attribute 'content'
+[2025-06-30 21:50:26] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 21:50:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: 'str' object has no attribute 'content'
+[2025-06-30 21:50:30] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 21:50:31] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 3: 'str' object has no attribute 'content'
+[2025-06-30 21:50:31] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 0 endpoints.
+[2025-06-30 21:50:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 21:50:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 21:51:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 21:51:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 21:51:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 21:51:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 21:51:07] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 3: Invalid JSON response after fallback attempt: Expecting ':' delimiter: line 9 column 13 (char 192)
+[2025-06-30 21:51:07] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 69 endpoints.
+[2025-06-30 21:51:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 21:51:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 21:51:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 21:51:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 21:51:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 21:51:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 21:51:57] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 3: Invalid JSON response after fallback attempt: Expecting ':' delimiter: line 9 column 13 (char 192)
+[2025-06-30 21:51:57] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 69 endpoints.
+[2025-06-30 22:00:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:00:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:00:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:00:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 22:00:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 22:00:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:00:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:00:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 72 endpoints.
+[2025-06-30 22:04:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:04:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:04:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:04:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 22:04:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 22:04:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:04:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:04:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 72 endpoints.
+[2025-06-30 22:05:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:05:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:05:58] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:05:58] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 22:06:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 22:06:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:06:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:06:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 72 endpoints.
+[2025-06-30 22:06:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:06:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:06:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:06:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 22:06:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 22:06:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:06:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:06:59] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 72 endpoints.
+[2025-06-30 22:11:24] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:11:24] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:11:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:11:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 37 endpoints...
+[2025-06-30 22:11:35] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 37 test cases from batch 2.
+[2025-06-30 22:11:35] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:11:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:11:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 72 endpoints.
+[2025-06-30 22:14:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:14:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 33 endpoints...
+[2025-06-30 22:14:20] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 1.
+[2025-06-30 22:14:20] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 32 endpoints...
+[2025-06-30 22:14:25] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 2.
+[2025-06-30 22:14:25] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:14:26] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:14:26] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:17:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:17:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 33 endpoints...
+[2025-06-30 22:17:35] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 1.
+[2025-06-30 22:17:35] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 32 endpoints...
+[2025-06-30 22:17:39] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing batch 2: Invalid JSON response after fallback attempt: Expecting property name enclosed in double quotes: line 81 column 3 (char 1566)
+[2025-06-30 22:17:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:17:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:17:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 36 endpoints.
+[2025-06-30 22:21:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:21:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 33 endpoints...
+[2025-06-30 22:21:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 1.
+[2025-06-30 22:21:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 32 endpoints...
+[2025-06-30 22:21:16] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 2.
+[2025-06-30 22:21:16] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:21:16] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:21:16] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:45:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:45:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:45:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:45:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:45:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:45:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:45:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:45:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:47:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:47:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:47:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:47:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:47:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:47:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:47:11] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:47:11] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:47:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:47:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:47:49] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:47:49] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:47:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:47:53] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:47:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:47:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:48:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:48:29] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:48:35] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:48:35] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:48:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:48:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:48:40] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:48:40] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:49:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:49:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:49:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:49:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:49:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:49:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:49:13] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:49:13] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:50:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:50:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:50:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:50:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:50:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:50:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:50:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:50:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 22:52:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:52:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:52:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:52:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:52:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:52:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:52:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Empty response from LLM for batch 3.
+[2025-06-30 22:52:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 65 endpoints.
+[2025-06-30 22:56:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:56:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:56:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Empty response from LLM for batch 1.
+[2025-06-30 22:56:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:56:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Empty response from LLM for batch 2.
+[2025-06-30 22:56:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:56:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Empty response from LLM for batch 3.
+[2025-06-30 22:56:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 0 endpoints.
+[2025-06-30 22:58:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 22:58:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 22:58:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 22:58:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 22:58:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 22:58:52] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 22:58:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 22:58:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-06-30 23:00:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 3 batches...
+[2025-06-30 23:00:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/3 with 32 endpoints...
+[2025-06-30 23:00:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 32 test cases from batch 1.
+[2025-06-30 23:00:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/3 with 33 endpoints...
+[2025-06-30 23:01:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 33 test cases from batch 2.
+[2025-06-30 23:01:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 3/3 with 3 endpoints...
+[2025-06-30 23:01:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 test cases from batch 3.
+[2025-06-30 23:01:06] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 68 endpoints.
+[2025-07-01 11:56:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 11:56:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 11:56:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 8 endpoints...
+[2025-07-01 11:57:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 test cases for collection Items in batch 1.
+[2025-07-01 11:57:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 8 endpoints...
+[2025-07-01 11:57:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 test cases for collection Login in batch 1.
+[2025-07-01 11:57:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 11:57:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 20 endpoints...
+[2025-07-01 11:58:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 20 test cases for collection Users in batch 2.
+[2025-07-01 11:58:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 1 endpoints...
+[2025-07-01 11:58:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Utils in batch 2.
+[2025-07-01 11:58:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Private with 1 endpoints...
+[2025-07-01 11:58:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Private in batch 2.
+[2025-07-01 11:58:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints...
+[2025-07-01 11:58:49] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 test cases for collection Auth in batch 2.
+[2025-07-01 11:58:49] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Mailcatcher with 1 endpoints...
+[2025-07-01 11:58:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Mailcatcher in batch 2.
+[2025-07-01 11:58:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 40 endpoints.
+[2025-07-01 12:15:38] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 12:15:38] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 12:15:38] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 8 endpoints...
+[2025-07-01 12:15:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 test cases for collection Items in batch 1.
+[2025-07-01 12:15:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 8 endpoints...
+[2025-07-01 12:16:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 test cases for collection Login in batch 1.
+[2025-07-01 12:16:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 12:16:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 20 endpoints...
+[2025-07-01 12:16:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 6 test cases for collection Users in batch 2.
+[2025-07-01 12:16:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 1 endpoints...
+[2025-07-01 12:17:27] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Utils in batch 2.
+[2025-07-01 12:17:27] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Private with 1 endpoints...
+[2025-07-01 12:17:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Private in batch 2.
+[2025-07-01 12:17:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints...
+[2025-07-01 12:18:11] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Auth in batch 2.
+[2025-07-01 12:18:11] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Mailcatcher with 1 endpoints...
+[2025-07-01 12:18:32] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Mailcatcher in batch 2.
+[2025-07-01 12:18:32] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 40 endpoints.
+[2025-07-01 12:22:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 12:22:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 12:22:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 8 endpoints...
+[2025-07-01 12:22:09] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 test cases for collection Items in batch 1.
+[2025-07-01 12:22:09] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 8 endpoints...
+[2025-07-01 12:22:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 test cases for collection Login in batch 1.
+[2025-07-01 12:22:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 12:22:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 20 endpoints...
+[2025-07-01 12:23:18] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 6 test cases for collection Users in batch 2.
+[2025-07-01 12:23:18] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 1 endpoints...
+[2025-07-01 12:23:45] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Utils in batch 2.
+[2025-07-01 12:23:45] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Private with 1 endpoints...
+[2025-07-01 12:24:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Private in batch 2.
+[2025-07-01 12:24:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints...
+[2025-07-01 12:24:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Auth in batch 2.
+[2025-07-01 12:24:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Mailcatcher with 1 endpoints...
+[2025-07-01 12:24:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 test cases for collection Mailcatcher in batch 2.
+[2025-07-01 12:24:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 40 endpoints.
+[2025-07-01 12:27:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 12:27:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 12:27:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 8 endpoints...
+[2025-07-01 12:27:25] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 in collection Items. Skipping.
+[2025-07-01 12:27:25] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 in collection Items. Skipping.
+[2025-07-01 12:27:25] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 in collection Items. Skipping.
+[2025-07-01 12:27:25] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected CRUD order: ['read_after_create', 'create', 'update', 'delete', 'other']
+[2025-07-01 12:27:25] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Items in batch 1.
+[2025-07-01 12:27:25] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 8 endpoints...
+[2025-07-01 12:27:37] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 in collection Login: {'payload': {'username': 'testuser', 'password': 'wrongpassword'}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 12:27:37] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected CRUD order: ['other', 'other', 'other', 'other', 'other', 'other', 'other', 'other']
+[2025-07-01 12:27:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 8 valid test cases for collection Login in batch 1.
+[2025-07-01 12:27:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 12:27:37] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 20 endpoints...
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 21 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 22 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 23 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 24 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 25 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 26 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 28 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 29 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 30 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 31 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 32 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 33 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 34 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 35 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 36 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 37 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 38 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 39 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 40 in collection Users. Skipping.
+[2025-07-01 12:28:33] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected CRUD order: ['read_after_create']
+[2025-07-01 12:28:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Users in batch 2.
+[2025-07-01 12:28:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 1 endpoints...
+[2025-07-01 12:29:01] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 in collection Utils: {'payload': {}, 'expected_response': {'result': True}, 'response_code': 200}
+[2025-07-01 12:29:01] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 in collection Utils: {'payload': {}, 'expected_response': {'error': 'Method not allowed'}, 'response_code': 405}
+[2025-07-01 12:29:01] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected CRUD order: ['other']
+[2025-07-01 12:29:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Utils in batch 2.
+[2025-07-01 12:29:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Private with 1 endpoints...
+[2025-07-01 12:29:20] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Private in batch 2.
+[2025-07-01 12:29:20] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints...
+[2025-07-01 12:29:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 in collection Auth: {'payload': {}, 'expected_response': {'error': 'Missing required fields'}, 'response_code': 400}
+[2025-07-01 12:29:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Auth do not follow expected CRUD order: ['other']
+[2025-07-01 12:29:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Auth in batch 2.
+[2025-07-01 12:29:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Mailcatcher with 1 endpoints...
+[2025-07-01 12:30:03] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 in collection Mailcatcher: {'payload': {}, 'expected_response': [{'id': '12345', 'sender': 'test@example.com', 'subject': 'Test Email', 'body': 'This is a test email sent to Mailcatcher.', 'date': '2023-10-05T12:34:56Z'}], 'response_code': 200}
+[2025-07-01 12:30:03] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 in collection Mailcatcher: {'payload': {}, 'expected_response': {'error': 'Failed to retrieve messages from Mailcatcher'}, 'response_code': 500}
+[2025-07-01 12:30:03] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Mailcatcher do not follow expected CRUD order: ['other']
+[2025-07-01 12:30:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Mailcatcher in batch 2.
+[2025-07-01 12:30:03] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 18 endpoints.
+[2025-07-01 12:38:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 12:38:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 12:38:39] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 8 endpoints...
+[2025-07-01 12:38:49] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (read, /items/) in collection Items.
+[2025-07-01 12:38:49] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (update, /items/{item_id}) in collection Items.
+[2025-07-01 12:38:49] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (delete, /items/{item_id}) in collection Items.
+[2025-07-01 12:38:49] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected order: ['read_after_create', 'create', 'update', 'delete', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete']
+[2025-07-01 12:38:49] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 4 valid test cases for collection Items in batch 1.
+[2025-07-01 12:38:49] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 8 endpoints...
+[2025-07-01 12:38:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (other) in collection Login: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser@example.com', 'full_name': 'Test User'}, 'response_code': 200}
+[2025-07-01 12:38:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Login: {'payload': {}, 'expected_response': {'detail': 'Invalid credentials'}, 'response_code': 403}
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (other, /reset-password/) in collection Login.
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (other, /password-recovery-html-content/{email}) in collection Login.
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (other, /login/access-token) in collection Login.
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (other, /login/test-token) in collection Login.
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 12:38:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (other, /reset-password/) in collection Login.
+[2025-07-01 12:38:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected order: ['other'], expected: ['register', 'login_success', 'login_failure']
+[2025-07-01 12:38:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Login in batch 1.
+[2025-07-01 12:38:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 12:38:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 20 endpoints...
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 24 (read) in collection Users: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser@example.com', 'full_name': 'Test User'}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 24 (read) in collection Users: {'payload': {}, 'expected_response': {}, 'response_code': 403}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 25 (delete) in collection Users: {'payload': {}, 'expected_response': {'message': 'User deleted'}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 25 (delete) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Superuser cannot delete themselves'}, 'response_code': 403}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 30 (read) in collection Users: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser@example.com', 'full_name': 'Test User', 'is_active': True, 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 30 (read) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Insufficient permissions'}, 'response_code': 403}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 32 (create) in collection Users: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser@example.com', 'full_name': 'Test User'}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 32 (create) in collection Users: {'payload': {}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 33 (read) in collection Users: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser@example.com', 'full_name': 'Test User'}], 'count': 1}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 33 (read) in collection Users: {'payload': {}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 34 (update) in collection Users: {'payload': {}, 'expected_response': {'email': 'testuser@example.com', 'full_name': 'Updated Test User'}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 34 (update) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Email already exists'}, 'response_code': 409}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 39 (delete) in collection Users: {'payload': {}, 'expected_response': {'message': 'User deleted successfully'}, 'response_code': 200}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 39 (delete) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Super users cannot delete themselves'}, 'response_code': 403}
+[2025-07-01 12:39:40] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected order: ['create', 'update', 'update', 'other', 'delete', 'create', 'other', 'update', 'delete', 'other', 'other', 'create', 'other', 'update', 'update', 'update', 'create', 'update', 'delete', 'delete'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete']
+[2025-07-01 12:39:40] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 15 valid test cases for collection Users in batch 2.
+[2025-07-01 12:39:40] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 1 endpoints...
+[2025-07-01 12:39:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 (other) in collection Utils: {'payload': {}, 'expected_response': {'result': True}, 'response_code': 200}
+[2025-07-01 12:39:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (other) in collection Utils: {'payload': {}, 'expected_response': {'error': 'Internal Server Error'}, 'response_code': 500}
+[2025-07-01 12:39:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete']
+[2025-07-01 12:39:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Utils in batch 2.
+[2025-07-01 12:39:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Private with 1 endpoints...
+[2025-07-01 12:39:44] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 (create) in collection Private: {'payload': {}, 'expected_response': {'id': 'string', 'email': 'string', 'full_name': 'string'}, 'response_code': 200}
+[2025-07-01 12:39:44] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (create) in collection Private: {'payload': {}, 'expected_response': {'error': 'Method Not Allowed'}, 'response_code': 405}
+[2025-07-01 12:39:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Private in batch 2.
+[2025-07-01 12:39:44] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints...
+[2025-07-01 12:40:28] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/access-token) in collection Auth.
+[2025-07-01 12:40:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Auth in batch 2.
+[2025-07-01 12:40:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Mailcatcher with 1 endpoints...
+[2025-07-01 12:40:31] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 (read) in collection Mailcatcher: {'payload': {}, 'expected_response': [{'id': 1, 'sender': 'test@example.com', 'subject': 'Test Email', 'body': 'This is a test email.', 'date': '2023-10-05T12:34:56Z'}], 'response_code': 200}
+[2025-07-01 12:40:31] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Mailcatcher: {'payload': {}, 'expected_response': {'error': 'Failed to retrieve messages'}, 'response_code': 500}
+[2025-07-01 12:40:31] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Mailcatcher do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete']
+[2025-07-01 12:40:31] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Mailcatcher in batch 2.
+[2025-07-01 12:40:31] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 40 endpoints.
+[2025-07-01 13:28:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 13:28:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 13:28:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 5 endpoints...
+[2025-07-01 13:28:58] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected order: ['create', 'read_after_create', 'update', 'delete', 'list'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 13:28:58] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 1
+[2025-07-01 13:28:58] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Items in batch 1.
+[2025-07-01 13:28:58] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 5 endpoints...
+[2025-07-01 13:29:26] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/test-token) in collection Login.
+[2025-07-01 13:29:26] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 13:29:26] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (other, /reset-password/) in collection Login.
+[2025-07-01 13:29:26] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (other, /password-recovery-html-content/{email}) in collection Login.
+[2025-07-01 13:29:26] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected order: ['other'], expected: ['register', 'login_success', 'login_failure', 'list', 'other']
+[2025-07-01 13:29:26] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Login in batch 1.
+[2025-07-01 13:29:26] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 10 endpoints...
+[2025-07-01 13:30:21] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (update, /users/me) in collection Users.
+[2025-07-01 13:30:21] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (update, /users/me/password) in collection Users.
+[2025-07-01 13:30:21] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 5 (read) in collection Users: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser123@example.com', 'full_name': 'Test User Updated', 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 13:30:21] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (read) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Invalid credentials'}, 'response_code': 403}
+[2025-07-01 13:30:21] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (delete, /users/me) in collection Users.
+[2025-07-01 13:30:21] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (create, /users/signup) in collection Users.
+[2025-07-01 13:30:21] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 8 (read) in collection Users: {'operation': 'read_after_delete', 'success': [], 'failure': [{'payload': {'user_id': '550e8400-e29b-41d4-a716-446655440000'}, 'expected_response': {'detail': 'User not found'}, 'response_code': 404}]}
+[2025-07-01 13:30:21] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 9 (update, /users/{user_id}) in collection Users.
+[2025-07-01 13:30:21] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected order: ['create', 'delete', 'list', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 13:30:21] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in delete for ID 10
+[2025-07-01 13:30:21] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 1
+[2025-07-01 13:30:21] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 4 valid test cases for collection Users in batch 1.
+[2025-07-01 13:30:21] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 2 endpoints...
+[2025-07-01 13:30:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 2 (read) in collection Utils: {'operation': 'other', 'success': [{'payload': {}, 'expected_response': {'result': True}, 'response_code': 200}], 'failure': []}
+[2025-07-01 13:30:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 13:30:22] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Utils in batch 1.
+[2025-07-01 13:30:22] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_items with 4 endpoints...
+[2025-07-01 13:30:47] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (update, /items/{item_id}) in collection Test_items.
+[2025-07-01 13:30:47] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (delete, /items/{item_id}) in collection Test_items.
+[2025-07-01 13:30:47] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in read_after_create for ID 2
+[2025-07-01 13:30:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 valid test cases for collection Test_items in batch 1.
+[2025-07-01 13:30:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 13:30:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_login with 4 endpoints...
+[2025-07-01 13:30:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (other, /login/test-token) in collection Test_login.
+[2025-07-01 13:30:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (other, /password-recovery/{email}) in collection Test_login.
+[2025-07-01 13:30:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (other, /reset-password/) in collection Test_login.
+[2025-07-01 13:30:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_login do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 13:30:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_login in batch 2.
+[2025-07-01 13:30:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_private with 1 endpoints...
+[2025-07-01 13:31:17] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 (create) in collection Test_private: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'testuser123@example.com', 'full_name': 'Test User'}, 'response_code': 200}
+[2025-07-01 13:31:17] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (create) in collection Test_private: {'payload': {}, 'expected_response': {'error': 'Invalid input data'}, 'response_code': 400}
+[2025-07-01 13:31:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_private in batch 2.
+[2025-07-01 13:31:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_users with 11 endpoints...
+[2025-07-01 13:32:10] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 12 (read) in collection Test_users: {'payload': {}, 'expected_response': {'email': 'testuser@example.com', 'full_name': 'Test User', 'is_active': True, 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 13:32:10] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 12 (read) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Insufficient permissions'}, 'response_code': 403}
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 13 (create, /users/) in collection Test_users.
+[2025-07-01 13:32:10] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 14 (read) in collection Test_users: {'operation': 'read_after_delete', 'success': [], 'failure': [{'payload': {'user_id': '1'}, 'expected_response': {'detail': 'User not found'}, 'response_code': 404}]}
+[2025-07-01 13:32:10] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 15 (read) in collection Test_users: {'operation': 'list', 'success': [{'payload': {}, 'expected_response': {'data': [], 'count': 0}, 'response_code': 200}], 'failure': []}
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 16 (update, /users/me) in collection Test_users.
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 17 (update, /users/me/password) in collection Test_users.
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 18 (create, /users/signup) in collection Test_users.
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 19 (update, /users/me/password) in collection Test_users.
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 20 (update, /users/{user_id}) in collection Test_users.
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 21 (delete, /users/me) in collection Test_users.
+[2025-07-01 13:32:10] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 22 (delete, /users/{user_id}) in collection Test_users.
+[2025-07-01 13:32:10] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_users do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 13:32:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_users in batch 2.
+[2025-07-01 13:32:10] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection User with 1 endpoints...
+[2025-07-01 13:32:12] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection User do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 13:32:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection User in batch 2.
+[2025-07-01 13:32:12] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 43 endpoints.
+[2025-07-01 14:03:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 14:03:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 14:03:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 5 endpoints...
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (read) in collection Items: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440001', 'title': 'Wireless Mouse', 'description': 'Ergonomic wireless mouse with long battery life', 'owner_id': '550e8400-e29b-41d4-a716-446655440001'}], 'count': 1}, 'response_code': 200}
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 400}
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (delete) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 400}
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected order: ['create', 'read_after_create', 'update', 'delete', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:04:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Items in batch 1.
+[2025-07-01 14:04:00] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 5 endpoints...
+[2025-07-01 14:04:00] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Login: missing params or responses.
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Login: {'payload': {}, 'expected_response': {'detail': 'Missing username and password'}, 'response_code': 400}
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:04:07] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/test-token) in collection Login.
+[2025-07-01 14:04:07] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 14:04:07] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (other, /reset-password/) in collection Login.
+[2025-07-01 14:04:07] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (other, /password-recovery-html-content/{email}) in collection Login.
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected order: ['other'], expected: ['register', 'login_success', 'login_failure', 'list', 'other']
+[2025-07-01 14:04:07] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Login in batch 1.
+[2025-07-01 14:04:07] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 10 endpoints...
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Users: missing params or responses.
+[2025-07-01 14:04:07] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Users: missing params or responses.
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (create) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Missing required fields: email, full_name'}, 'response_code': 400}
+[2025-07-01 14:04:19] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (update, /users/me/password) in collection Users.
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 5 (read) in collection Users: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'john.doe@example.com', 'full_name': 'John Doe', 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (read) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Invalid credentials'}, 'response_code': 403}
+[2025-07-01 14:04:19] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (delete, /users/me) in collection Users.
+[2025-07-01 14:04:19] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (create, /users/signup) in collection Users.
+[2025-07-01 14:04:19] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 9 (update, /users/{user_id}) in collection Users.
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected order: ['create', 'update', 'delete', 'other', 'other', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in update for ID 3
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in delete for ID 10
+[2025-07-01 14:04:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 6 valid test cases for collection Users in batch 1.
+[2025-07-01 14:04:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 2 endpoints...
+[2025-07-01 14:04:19] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Utils: missing params or responses.
+[2025-07-01 14:04:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 2 (read) in collection Utils: {'payload': {}, 'expected_response': {'result': True}, 'response_code': 200}
+[2025-07-01 14:04:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Utils: {'payload': {}, 'expected_response': {'detail': 'Internal server error'}, 'response_code': 500}
+[2025-07-01 14:04:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Utils: {'payload': {}, 'expected_response': {'detail': 'Service unavailable'}, 'response_code': 500}
+[2025-07-01 14:04:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected order: ['other', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:04:30] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 valid test cases for collection Utils in batch 1.
+[2025-07-01 14:04:30] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_items with 4 endpoints...
+[2025-07-01 14:04:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_items: missing params or responses.
+[2025-07-01 14:05:08] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'Item ID is required'}, 'response_code': 400}
+[2025-07-01 14:05:08] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (update, /items/{item_id}) in collection Test_items.
+[2025-07-01 14:05:08] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 4 (delete) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'Item ID is required'}, 'response_code': 400}
+[2025-07-01 14:05:08] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_items do not follow expected order: ['update', 'read_after_update', 'delete'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:05:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 valid test cases for collection Test_items in batch 1.
+[2025-07-01 14:05:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 14:05:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_login with 4 endpoints...
+[2025-07-01 14:05:08] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:05:08] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:05:08] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:05:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {'username': 'testuser', 'password': ''}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:05:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {'username': '', 'password': 'testpass'}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:05:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:05:13] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (other, /login/test-token) in collection Test_login.
+[2025-07-01 14:05:13] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (other, /password-recovery/{email}) in collection Test_login.
+[2025-07-01 14:05:13] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (other, /reset-password/) in collection Test_login.
+[2025-07-01 14:05:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_login do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:05:13] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_login in batch 2.
+[2025-07-01 14:05:13] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_private with 1 endpoints...
+[2025-07-01 14:05:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_private: missing params or responses.
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (create) in collection Test_private: {'payload': {}, 'expected_response': {'error': 'Missing required fields: email, full_name'}, 'response_code': 400}
+[2025-07-01 14:05:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_private in batch 2.
+[2025-07-01 14:05:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_users with 11 endpoints...
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:05:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:06:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 12 (read) in collection Test_users: {'operation': 'other', 'success': [{'payload': {}, 'expected_response': {'email': 'john.doe@example.com', 'full_name': 'John Doe', 'is_active': True, 'is_superuser': False}, 'response_code': 200}], 'failure': []}
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 13 (create, /users/) in collection Test_users.
+[2025-07-01 14:06:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 14 (read) in collection Test_users: {'operation': 'read_after_delete', 'success': [], 'failure': [{'payload': {'user_id': '550e8400-e29b-41d4-a716-446655440000'}, 'expected_response': {'detail': 'User not found'}, 'response_code': 404}]}
+[2025-07-01 14:06:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Incomplete test cases for endpoint ID 15 (read) in collection Test_users: {'operation': 'list', 'success': [{'payload': {}, 'expected_response': {'data': [], 'count': 0}, 'response_code': 200}], 'failure': []}
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 16 (update, /users/me) in collection Test_users.
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 17 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 18 (create, /users/signup) in collection Test_users.
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 19 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 20 (update, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 21 (delete, /users/me) in collection Test_users.
+[2025-07-01 14:06:54] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 22 (delete, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:06:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Test_users in batch 2.
+[2025-07-01 14:06:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection User with 1 endpoints...
+[2025-07-01 14:07:24] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/access-token) in collection User.
+[2025-07-01 14:07:24] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection User in batch 2.
+[2025-07-01 14:11:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 14:11:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 14:11:15] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 5 endpoints...
+[2025-07-01 14:11:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (read) in collection Items: {'payload': {}, 'expected_response': {'data': [], 'count': 0}, 'response_code': 200}
+[2025-07-01 14:11:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 404}
+[2025-07-01 14:11:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (delete) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 404}
+[2025-07-01 14:11:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected order: ['create', 'read_after_create', 'update', 'delete', 'list'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:11:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 1
+[2025-07-01 14:11:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Items in batch 1.
+[2025-07-01 14:11:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 5 endpoints...
+[2025-07-01 14:11:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Login: missing params or responses.
+[2025-07-01 14:11:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Login: {'payload': {}, 'expected_response': {'detail': 'Invalid request'}, 'response_code': 400}
+[2025-07-01 14:11:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/test-token) in collection Login.
+[2025-07-01 14:11:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 14:11:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (other, /reset-password/) in collection Login.
+[2025-07-01 14:11:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (other, /password-recovery-html-content/{email}) in collection Login.
+[2025-07-01 14:11:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected order: ['other'], expected: ['register', 'login_success', 'login_failure', 'list', 'other']
+[2025-07-01 14:11:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Login in batch 1.
+[2025-07-01 14:11:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 10 endpoints...
+[2025-07-01 14:11:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Users: missing params or responses.
+[2025-07-01 14:11:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Users: missing params or responses.
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (read) in collection Users: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440001', 'email': 'jane.smith@example.com', 'full_name': 'Jane Smith', 'is_superuser': True}], 'count': 1}, 'response_code': 200}
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (read) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Unauthorized access'}, 'response_code': 403}
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_in in test case for ID 2 (create)
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_in in test case for ID 2 (create)
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_in in test case for ID 2 (create)
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_in in test case for ID 2 (create)
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_in in test case for ID 2 (create)
+[2025-07-01 14:12:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (update, /users/me) in collection Users.
+[2025-07-01 14:12:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (update, /users/me/password) in collection Users.
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 5 (read) in collection Users: {'payload': {}, 'expected_response': {'id': '550e8400-e29b-41d4-a716-446655440002', 'email': 'test.user@example.com', 'full_name': 'Test User', 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (read) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Unauthorized access'}, 'response_code': 401}
+[2025-07-01 14:12:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (delete, /users/me) in collection Users.
+[2025-07-01 14:12:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (create, /users/signup) in collection Users.
+[2025-07-01 14:12:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 9 (update, /users/{user_id}) in collection Users.
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected order: ['create', 'delete', 'read_after_delete', 'list', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in delete for ID 10
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in read_after_delete for ID 8
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 1
+[2025-07-01 14:12:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Users in batch 1.
+[2025-07-01 14:12:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 2 endpoints...
+[2025-07-01 14:12:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Utils: missing params or responses.
+[2025-07-01 14:12:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (other) in collection Utils: {'payload': {}, 'expected_response': {'status': True}, 'response_code': 200}
+[2025-07-01 14:12:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Utils: {'payload': {}, 'expected_response': {'detail': 'Internal server error'}, 'response_code': 500}
+[2025-07-01 14:12:05] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /test-email) in collection Utils.
+[2025-07-01 14:12:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:12:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Utils in batch 1.
+[2025-07-01 14:12:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 14:12:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_items with 4 endpoints...
+[2025-07-01 14:12:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_items: missing params or responses.
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (read) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'item_id is required'}, 'response_code': 400}
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 6 (read) in collection Test_items: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440001', 'title': 'Test Item 2', 'description': 'Another test item description.', 'owner_id': 'test_owner_2'}]}, 'response_code': 200}
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 8 (delete) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'item_id is required'}, 'response_code': 400}
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_items do not follow expected order: ['update', 'delete', 'read_after_delete', 'list'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:12:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 4 valid test cases for collection Test_items in batch 2.
+[2025-07-01 14:12:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_login with 4 endpoints...
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:12:41] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:12:47] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {'username': 'testuser', 'password': ''}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:12:47] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {'username': '', 'password': 'testpass'}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:12:47] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:12:47] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (other, /login/test-token) in collection Test_login.
+[2025-07-01 14:12:47] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (other, /password-recovery/{email}) in collection Test_login.
+[2025-07-01 14:12:47] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (other, /reset-password/) in collection Test_login.
+[2025-07-01 14:12:47] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_login do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:12:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_login in batch 2.
+[2025-07-01 14:12:47] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_private with 1 endpoints...
+[2025-07-01 14:12:47] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_private: missing params or responses.
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (create) in collection Test_private: {'payload': {}, 'expected_response': {'error': 'Missing required fields: email, full_name'}, 'response_code': 400}
+[2025-07-01 14:13:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_private in batch 2.
+[2025-07-01 14:13:23] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_users with 12 endpoints...
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:13:23] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 13 (read, /users/me) in collection Test_users.
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 14 (create) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Missing required fields: email, full_name'}, 'response_code': 400}
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 15 (read) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Missing required field: id'}, 'response_code': 400}
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_id in test case for ID 15 (read)
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_id in test case for ID 15 (read)
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param user_id in test case for ID 15 (read)
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 16 (read) in collection Test_users: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'john.doe@example.com', 'full_name': 'John Doe'}], 'count': 1}, 'response_code': 200}
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 18 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 19 (create, /users/signup) in collection Test_users.
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 20 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 21 (update, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'message': 'User deleted successfully'}, 'response_code': 200}
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Super user cannot delete themselves'}, 'response_code': 403}
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 23 (delete, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:14:32] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 24 (other, /login/access-token) in collection Test_users.
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_users do not follow expected order: ['create', 'read_after_create', 'update', 'delete', 'list'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in update for ID 17
+[2025-07-01 14:14:32] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 16
+[2025-07-01 14:14:32] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Test_users in batch 2.
+[2025-07-01 14:16:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 14:16:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 14:16:55] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 5 endpoints...
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (list) in collection Items: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440001', 'title': 'Stainless Steel Water Bottle', 'description': 'Insulated water bottle keeps drinks cold for 24 hours', 'owner_id': '550e8400-e29b-41d4-a716-446655440001'}], 'count': 1}, 'response_code': 200}
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read_after_create) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 404}
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 3 (create) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Invalid request'}, 'response_code': 400}
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 3 (create)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param item_in in test case for ID 4 (update)
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (delete) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 404}
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected order: ['create', 'read_after_create', 'update', 'delete', 'list'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 1
+[2025-07-01 14:17:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Items in batch 1.
+[2025-07-01 14:17:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 5 endpoints...
+[2025-07-01 14:17:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Login: missing params or responses.
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Login: {'payload': {}, 'expected_response': {'detail': 'Missing required fields: username, password'}, 'response_code': 400}
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing required param form_data in test case for ID 1 (other)
+[2025-07-01 14:17:14] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/test-token) in collection Login.
+[2025-07-01 14:17:14] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 14:17:14] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (other, /reset-password/) in collection Login.
+[2025-07-01 14:17:14] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (other, /password-recovery-html-content/{email}) in collection Login.
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected order: ['other'], expected: ['register', 'login_success', 'login_failure', 'list', 'other']
+[2025-07-01 14:17:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Login in batch 1.
+[2025-07-01 14:17:14] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 10 endpoints...
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Users: missing params or responses.
+[2025-07-01 14:17:14] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Users: missing params or responses.
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (read_after_delete) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Missing required field: user_id'}, 'response_code': 400}
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (create) in collection Users: {'payload': {}, 'expected_response': {'detail': 'Missing required fields: email, full_name'}, 'response_code': 400}
+[2025-07-01 14:17:24] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (update, /users/me/password) in collection Users.
+[2025-07-01 14:17:24] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (delete, /users/me) in collection Users.
+[2025-07-01 14:17:24] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (create, /users/signup) in collection Users.
+[2025-07-01 14:17:24] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 9 (update, /users/{user_id}) in collection Users.
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected order: ['create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in update for ID 3
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in read_after_update for ID 8
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in delete for ID 10
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in read_after_delete for ID 1
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in list for ID 5
+[2025-07-01 14:17:24] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 6 valid test cases for collection Users in batch 1.
+[2025-07-01 14:17:24] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 2 endpoints...
+[2025-07-01 14:17:24] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Utils: missing params or responses.
+[2025-07-01 14:17:28] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (other) in collection Utils: {'payload': {}, 'expected_response': {'status': True}, 'response_code': 200}
+[2025-07-01 14:17:28] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Utils: {'payload': {}, 'expected_response': {'detail': 'Service is unhealthy'}, 'response_code': 500}
+[2025-07-01 14:17:28] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Utils: {'payload': {}, 'expected_response': {'detail': 'Method not allowed'}, 'response_code': 405}
+[2025-07-01 14:17:28] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /test-email) in collection Utils.
+[2025-07-01 14:17:28] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:17:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Utils in batch 1.
+[2025-07-01 14:17:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 14:17:28] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_items with 4 endpoints...
+[2025-07-01 14:17:28] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_items: missing params or responses.
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'Missing required field: item_id'}, 'response_code': 400}
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 6 (list) in collection Test_items: {'payload': {}, 'expected_response': {'data': [{'id': 'item_2', 'title': 'Test Item 2', 'description': 'This is another test item description.', 'owner_id': 'owner_1'}]}, 'response_code': 200}
+[2025-07-01 14:18:05] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (update, /items/{item_id}) in collection Test_items.
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 8 (delete) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'Missing required field: item_id'}, 'response_code': 400}
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_items do not follow expected order: ['delete', 'list', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:18:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 valid test cases for collection Test_items in batch 2.
+[2025-07-01 14:18:05] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_login with 4 endpoints...
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:18:05] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_login: missing params or responses.
+[2025-07-01 14:18:11] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {'username': 'testuser', 'password': 'wrongpass'}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:18:11] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {}, 'expected_response': {'error': 'Missing required fields: username, password'}, 'response_code': 400}
+[2025-07-01 14:18:11] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {'username': 'invalid', 'password': 'invalid'}, 'expected_response': {}, 'response_code': 400}
+[2025-07-01 14:18:11] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (other, /login/test-token) in collection Test_login.
+[2025-07-01 14:18:11] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (other, /password-recovery/{email}) in collection Test_login.
+[2025-07-01 14:18:11] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (other, /reset-password/) in collection Test_login.
+[2025-07-01 14:18:11] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_login do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:18:11] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_login in batch 2.
+[2025-07-01 14:18:11] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_private with 1 endpoints...
+[2025-07-01 14:18:11] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_private: missing params or responses.
+[2025-07-01 14:18:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_private in batch 2.
+[2025-07-01 14:18:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_users with 12 endpoints...
+[2025-07-01 14:18:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:18:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:18:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:18:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:18:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:18:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid endpoint ID unknown in Test_users: missing params or responses.
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 13 (other) in collection Test_users: {'payload': {}, 'expected_response': {'email': 'john.doe@example.com', 'full_name': 'John Doe', 'is_active': True, 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 13 (other) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Not authenticated'}, 'response_code': 401}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 14 (create) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Missing required fields: email, full_name'}, 'response_code': 400}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 16 (other) in collection Test_users: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440000', 'email': 'john.doe@example.com', 'full_name': 'John Doe'}, {'id': '550e8400-e29b-41d4-a716-446655440001', 'email': 'jane.smith@example.com', 'full_name': 'Jane Smith'}], 'count': 2}, 'response_code': 200}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 16 (other) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Insufficient permissions'}, 'response_code': 403}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 17 (update) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'No updates provided'}, 'response_code': 400}
+[2025-07-01 14:20:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 18 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:20:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 19 (create, /users/signup) in collection Test_users.
+[2025-07-01 14:20:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 20 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:20:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 21 (update, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'message': 'User deleted successfully'}, 'response_code': 200}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Super user cannot delete themselves'}, 'response_code': 403}
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Insufficient permissions'}, 'response_code': 403}
+[2025-07-01 14:20:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 23 (delete, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:20:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 24 (other, /login/access-token) in collection Test_users.
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_users do not follow expected order: ['create', 'update', 'delete', 'other', 'other', 'other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list', 'other']
+[2025-07-01 14:20:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in update for ID 17
+[2025-07-01 14:20:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 6 valid test cases for collection Test_users in batch 2.
+[2025-07-01 14:20:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 43 endpoints.
+[2025-07-01 14:25:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting Test Generation from 2 batches...
+[2025-07-01 14:25:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 1/2...
+[2025-07-01 14:25:33] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Items with 5 endpoints...
+[2025-07-01 14:25:56] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 1 (read) in collection Items: {'payload': {}, 'expected_response': {'data': [{'id': '550e8400-e29b-41d4-a716-446655440001', 'name': 'Test Item 2', 'price': 149.99, 'description': None}], 'count': 1}, 'response_code': 200}
+[2025-07-01 14:25:56] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 2 (read) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Item not found'}, 'response_code': 404}
+[2025-07-01 14:25:56] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 3 (create) in collection Items: {'payload': {}, 'expected_response': {'detail': 'Invalid request'}, 'response_code': 400}
+[2025-07-01 14:25:56] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Items do not follow expected order: ['list', 'read_after_create', 'create', 'update', 'delete'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list']
+[2025-07-01 14:25:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 5 valid test cases for collection Items in batch 1.
+[2025-07-01 14:25:56] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Login with 5 endpoints...
+[2025-07-01 14:26:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (other, /login/test-token) in collection Login.
+[2025-07-01 14:26:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (other, /password-recovery/{email}) in collection Login.
+[2025-07-01 14:26:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (other, /reset-password/) in collection Login.
+[2025-07-01 14:26:02] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (other, /password-recovery-html-content/{email}) in collection Login.
+[2025-07-01 14:26:02] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Login do not follow expected order: ['other'], expected: ['register', 'login_success', 'login_failure', 'list']
+[2025-07-01 14:26:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Login in batch 1.
+[2025-07-01 14:26:02] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 10 endpoints...
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (create, /users/) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 3 (update, /users/me) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 4 (update, /users/me/password) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 5 (read, /users/me) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (delete, /users/me) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (create, /users/signup) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (read, /users/{user_id}) in collection Users.
+[2025-07-01 14:27:01] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 9 (update, /users/{user_id}) in collection Users.
+[2025-07-01 14:27:01] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 10 (delete) in collection Users: {'payload': {}, 'expected_response': {'detail': 'User not found'}, 'response_code': 400}
+[2025-07-01 14:27:01] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Users do not follow expected order: ['list', 'delete'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list']
+[2025-07-01 14:27:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 valid test cases for collection Users in batch 1.
+[2025-07-01 14:27:01] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Utils with 2 endpoints...
+[2025-07-01 14:27:04] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (other) in collection Utils: {'payload': {}, 'expected_response': {'error': 'Missing required parameter: email_to'}, 'response_code': 400}
+[2025-07-01 14:27:04] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (read, /health-check/) in collection Utils.
+[2025-07-01 14:27:04] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Utils do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list']
+[2025-07-01 14:27:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Utils in batch 1.
+[2025-07-01 14:27:04] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_items with 4 endpoints...
+[2025-07-01 14:27:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 1 (read) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'Item_id is required'}, 'response_code': 400}
+[2025-07-01 14:27:36] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 2 (read, /items/) in collection Test_items.
+[2025-07-01 14:27:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 4 (delete) in collection Test_items: {'payload': {}, 'expected_response': {'detail': 'Item_id is required'}, 'response_code': 400}
+[2025-07-01 14:27:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_items do not follow expected order: ['read_after_create', 'update', 'delete'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list']
+[2025-07-01 14:27:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 valid test cases for collection Test_items in batch 1.
+[2025-07-01 14:27:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing test batch 2/2...
+[2025-07-01 14:27:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_login with 4 endpoints...
+[2025-07-01 14:27:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 5 (other) in collection Test_login: {'payload': {}, 'expected_response': {'error': 'Missing required fields: username, password'}, 'response_code': 400}
+[2025-07-01 14:27:42] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 6 (other, /login/test-token) in collection Test_login.
+[2025-07-01 14:27:42] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 7 (other, /password-recovery/{email}) in collection Test_login.
+[2025-07-01 14:27:42] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 8 (other, /reset-password/) in collection Test_login.
+[2025-07-01 14:27:42] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_login do not follow expected order: ['other'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list']
+[2025-07-01 14:27:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Test_login in batch 2.
+[2025-07-01 14:27:42] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_private with 1 endpoints...
+[2025-07-01 14:28:21] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Test_private in batch 2.
+[2025-07-01 14:28:21] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Test_users with 12 endpoints...
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 13 (read) in collection Test_users: {'payload': {}, 'expected_response': {'email': 'john.doe@example.com', 'full_name': 'John Doe', 'is_active': True, 'is_superuser': False}, 'response_code': 200}
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 13 (read) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Not authenticated'}, 'response_code': 401}
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 14 (create) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Missing required fields'}, 'response_code': 400}
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 15 (read, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 16 (read, /users/) in collection Test_users.
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 17 (update) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'No updates provided'}, 'response_code': 400}
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 18 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 19 (create, /users/signup) in collection Test_users.
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 20 (update, /users/me/password) in collection Test_users.
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 21 (update, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid success test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'message': 'User deleted successfully'}, 'response_code': 200}
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid failure test case for endpoint ID 22 (delete) in collection Test_users: {'payload': {}, 'expected_response': {'detail': 'Super user cannot delete themselves'}, 'response_code': 403}
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 23 (delete, /users/{user_id}) in collection Test_users.
+[2025-07-01 14:29:30] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No test cases found for endpoint ID 24 (other, /login/access-token) in collection Test_users.
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Test cases for collection Test_users do not follow expected order: ['other', 'create', 'update', 'delete'], expected: ['create', 'read_after_create', 'update', 'read_after_update', 'delete', 'read_after_delete', 'list']
+[2025-07-01 14:29:30] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Inconsistent resource ID in update for ID 17
+[2025-07-01 14:29:30] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 valid test cases for collection Test_users in batch 2.
+[2025-07-01 14:29:30] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating test cases for 43 endpoints.
+[2025-07-01 14:43:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting test case generation for 1 batches...
+[2025-07-01 14:43:19] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Index with 1 endpoints in batch 1...
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operations {'update', 'create', 'read_after_delete', 'list', 'read_after_update', 'read_after_create', 'delete'} for collection Index. Generating placeholders.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID da40d1cb-bb10-4f3a-879f-e3d2e9aa57a5 in collection Index.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 7430386c-b5bc-42df-b715-8e7a87270768 in collection Index.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 0a553f85-49fe-4445-a207-3d54bb4ffaaa in collection Index.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 5468e7b0-92cb-4c4b-ac48-9a5304a45bc4 in collection Index.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID e847eaab-ecaf-4030-bfd5-1f965b6c260e in collection Index.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 8388e692-cfd3-485f-b4a8-3b4d7579ce9c in collection Index.
+[2025-07-01 14:43:22] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 0da5af9a-3fc4-4c0e-a645-a0ab79764618 in collection Index.
+[2025-07-01 14:43:22] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No valid test cases generated for collection Index.
+[2025-07-01 14:43:22] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Index in batch 1.
+[2025-07-01 14:43:22] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints in batch 1...
+[2025-07-01 14:43:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operations {'login_success', 'register', 'login_failure', 'list'} for collection Auth. Generating placeholders.
+[2025-07-01 14:43:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 99b7ae7e-ff73-4f04-a358-cffe72e3edb3 in collection Auth.
+[2025-07-01 14:43:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID e9342a91-114a-4eb8-b58d-35ce8332ab71 in collection Auth.
+[2025-07-01 14:43:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 7eb61e18-82e5-4ec5-a8de-8f7073b650ea in collection Auth.
+[2025-07-01 14:43:51] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID e497a051-b3f4-48c7-9fd0-4ca745bbcc20 in collection Auth.
+[2025-07-01 14:43:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 1 valid test cases for collection Auth in batch 1.
+[2025-07-01 14:43:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Chats with 3 endpoints in batch 1...
+[2025-07-01 14:44:41] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Retrying LLM call (attempt 1)...
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operations {'update', 'read_after_delete', 'list', 'read_after_update', 'read_after_create', 'delete'} for collection Chats. Generating placeholders.
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid payload in test case for create (ID: 67359e1d-57c4-44a6-9f98-3aeb92c4a760, Chats): {'payload': {}, 'expected_response': {'error': 'Missing required field: users'}, 'response_code': 400}
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID a1f35126-fc7d-4755-9d8f-156f04a1b8d9 in collection Chats.
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID ed10b3e8-7f0c-4b7a-87be-261b8dcd4830 in collection Chats.
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 56bd4dab-c6f1-4ae0-9814-fb088a23f2a3 in collection Chats.
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 6ae7018b-d783-4f20-a712-37c576bd76a0 in collection Chats.
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 48c133b4-7926-4502-8c9a-70108ee14381 in collection Chats.
+[2025-07-01 14:44:48] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 5865a2d2-8b79-4e97-92f4-e075657ec869 in collection Chats.
+[2025-07-01 14:44:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 3 valid test cases for collection Chats in batch 1.
+[2025-07-01 14:44:48] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Message with 2 endpoints in batch 1...
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operations {'update', 'read_after_delete', 'list', 'read_after_update', 'read_after_create', 'delete'} for collection Message. Generating placeholders.
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid payload in test case for create (ID: 07e258d5-de8e-4522-85cc-580eb25317b4, Message): {'payload': {}, 'expected_response': {'error': 'Missing required fields: chatId, message'}, 'response_code': 400}
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 73e67ed5-7148-437d-a3bb-8183c0cdd4b6 in collection Message.
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 7b00b51f-f31a-4e52-8abb-420f86c082ed in collection Message.
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 4dc4e281-2635-42f9-9c80-71c22d3be0de in collection Message.
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 3a12e31b-34c1-4b91-a102-e9a744c4a96d in collection Message.
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 2725af6d-70dc-41c4-bef7-16e451db09d7 in collection Message.
+[2025-07-01 14:45:36] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 6a12de00-7222-42bc-8164-a4a27cbc713e in collection Message.
+[2025-07-01 14:45:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 valid test cases for collection Message in batch 1.
+[2025-07-01 14:45:36] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Posts with 6 endpoints in batch 1...
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operations {'create', 'read_after_delete', 'list', 'read_after_update', 'read_after_create'} for collection Posts. Generating placeholders.
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID b780151e-d8f8-4f7d-8430-5bb8f21d90c1 in collection Posts.
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 4abe34b3-1de6-4fe6-a9f4-c05fcb4e38b2 in collection Posts.
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid payload in test case for update (ID: 811183e9-5d51-43bf-ac3b-130f07bc4f21_update, Posts): {'payload': {}, 'expected_response': {'error': 'Missing required field: id'}, 'response_code': 400}
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid payload in test case for update (ID: 82685e64-fe1f-4dd5-9781-a83a32cd3b79_update, Posts): {'payload': {}, 'expected_response': {'error': 'Missing required fields: postId, commentId'}, 'response_code': 400}
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID ecc404e3-769d-4cc8-a0db-0128c4e4f097 in collection Posts.
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID b4d3fb10-7fa5-4fbe-a312-a757ed00f46d in collection Posts.
+[2025-07-01 14:46:34] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 96e948bb-17fd-48fc-9679-c00b5c82055e in collection Posts.
+[2025-07-01 14:46:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 6 valid test cases for collection Posts in batch 1.
+[2025-07-01 14:46:34] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 4 endpoints in batch 1...
+[2025-07-01 14:46:46] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operations {'create', 'read_after_delete', 'read_after_update', 'read_after_create', 'delete'} for collection Users. Generating placeholders.
+[2025-07-01 14:46:46] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID bd01e0c5-f2d7-47ea-8b41-f2d578c5c796 in collection Users.
+[2025-07-01 14:46:46] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 9fed5fa9-d85b-481d-9673-8f08bc90ff73 in collection Users.
+[2025-07-01 14:46:46] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 4c1c2dfb-c6c8-48bd-875f-09e716a55ff5 in collection Users.
+[2025-07-01 14:46:46] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 8a068e09-2f81-4961-835e-03c60b66b4da in collection Users.
+[2025-07-01 14:46:46] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID a5d585d9-4aa6-4f20-bdb3-46e218f0b045 in collection Users.
+[2025-07-01 14:46:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 4 valid test cases for collection Users in batch 1.
+[2025-07-01 14:46:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating 70 test cases for 17 endpoints in 206.69 seconds.
+[2025-07-01 14:46:46] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Metrics: {'total_endpoints': 17, 'total_test_cases': 70, 'success_cases': 25, 'failure_cases': 45, 'execution_time': 206.69086360931396}
+[2025-07-01 15:13:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Starting test case generation for 1 batches...
+[2025-07-01 15:13:17] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Index with 1 endpoints in batch 1...
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_delete for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_update for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_create for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation delete for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation list for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation update for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation create for collection Index. Generating placeholder.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID bc609cb6-1b98-40ff-82e4-3e9016d1d3b7 in collection Index.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID d294236a-f7e9-49cc-9429-60d2e98de6de in collection Index.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 02333d98-fb8f-4880-a2c2-86357e342aa4 in collection Index.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 70951a11-829d-4dd9-8a79-2c07fa7f9dae in collection Index.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 7e8d697d-5ed2-42d0-a091-8769b40ac6ee in collection Index.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 6e8b883b-7e88-41c2-b88c-deb341d25367 in collection Index.
+[2025-07-01 15:13:20] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 06b52b3c-9ac0-41e5-8a9b-0913e4726ece in collection Index.
+[2025-07-01 15:13:20] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] No valid test cases generated for collection Index.
+[2025-07-01 15:13:20] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 0 valid test cases for collection Index in batch 1.
+[2025-07-01 15:13:20] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Auth with 1 endpoints in batch 1...
+[2025-07-01 15:14:08] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing collection Auth in batch 1: 'str' object has no attribute 'get'
+[2025-07-01 15:14:08] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Chats with 3 endpoints in batch 1...
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_delete for collection Chats. Generating placeholder.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_update for collection Chats. Generating placeholder.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_create for collection Chats. Generating placeholder.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation delete for collection Chats. Generating placeholder.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation list for collection Chats. Generating placeholder.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation update for collection Chats. Generating placeholder.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid payload in test case for create (ID: 7b887ded-008b-437c-af8f-7e25196a8062, Chats): {'payload': {}, 'expected_response': {'error': 'Missing required field: users'}, 'response_code': 400}
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 11116ba7-e9d4-4734-a01f-ba7f77bacd65 in collection Chats.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 25fdcce4-0850-4a6f-aa4a-efc9acbf709a in collection Chats.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 320dece2-7f2a-46ae-96e5-5e0e543c1e68 in collection Chats.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID f1242db5-65cb-4e02-b306-a7af3b9b175e in collection Chats.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 622d02cd-a459-4775-b884-e07c60400282 in collection Chats.
+[2025-07-01 15:14:13] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 941a7fbe-062c-4510-8052-94739214b20a in collection Chats.
+[2025-07-01 15:14:13] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 valid test cases for collection Chats in batch 1.
+[2025-07-01 15:14:13] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Message with 2 endpoints in batch 1...
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_delete for collection Message. Generating placeholder.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_update for collection Message. Generating placeholder.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_create for collection Message. Generating placeholder.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation delete for collection Message. Generating placeholder.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation list for collection Message. Generating placeholder.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation update for collection Message. Generating placeholder.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Invalid payload in test case for create (ID: c366e4c0-23ed-42f6-8f02-038c467c7336, Message): {'payload': {}, 'expected_response': {'error': 'Missing required fields: chatId, message'}, 'response_code': 400}
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID ff9c3e5e-889d-4211-a5fd-51af8f713e88 in collection Message.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 2c2e8940-1a6c-4012-ad8e-06f75f647678 in collection Message.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID a77e4086-4b50-40c9-84ae-4f7fdd7d20e1 in collection Message.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID b91c0cdb-fb71-4a35-889b-abac60121442 in collection Message.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID f6436c16-ddf5-4878-85b4-1a39934e4903 in collection Message.
+[2025-07-01 15:14:54] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 5c67466a-ccd5-4e37-9b34-da5f859682df in collection Message.
+[2025-07-01 15:14:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 2 valid test cases for collection Message in batch 1.
+[2025-07-01 15:14:54] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Posts with 6 endpoints in batch 1...
+[2025-07-01 15:15:51] [ERROR] [ai.test_case_generation.agents.TestGenerationNode] Error processing collection Posts in batch 1: 'str' object has no attribute 'get'
+[2025-07-01 15:15:51] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Processing collection Users with 4 endpoints in batch 1...
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_delete for collection Users. Generating placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_update for collection Users. Generating placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation read_after_create for collection Users. Generating placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation delete for collection Users. Generating placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation list for collection Users. Generating placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] Missing operation create for collection Users. Generating placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID a6cd2674-fec8-48d8-9606-503d855a67c5 in collection Users.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 08a682f9-7b73-4d05-bb1f-ed2c54c67779 in collection Users.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 4f270455-bdd9-4543-b9b2-cb0713689a91 in collection Users.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID 5631a4ab-7675-44a4-845d-efba403d2781 in collection Users.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID cec32735-d066-462a-b779-d283a0ac6c45 in collection Users.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for ID db6f2b62-cbb1-4698-a1d5-a838fa03010c in collection Users.
+[2025-07-01 15:16:50] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Generated 4 valid test cases for collection Users in batch 1.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation create in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_create in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation update in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_update in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation delete in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_delete in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation list in collection Index. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation register in collection Auth. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation login_success in collection Auth. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation login_failure in collection Auth. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation list in collection Auth. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_create in collection Chats. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation update in collection Chats. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_update in collection Chats. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation delete in collection Chats. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_delete in collection Chats. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation list in collection Chats. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_create in collection Message. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation update in collection Message. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_update in collection Message. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation delete in collection Message. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_delete in collection Message. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation list in collection Message. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation create in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_create in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation update in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_update in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation delete in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_delete in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation list in collection Posts. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation create in collection Users. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_create in collection Users. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_update in collection Users. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation delete in collection Users. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation read_after_delete in collection Users. Adding placeholder.
+[2025-07-01 15:16:50] [WARNING] [ai.test_case_generation.agents.TestGenerationNode] No endpoint found for operation list in collection Users. Adding placeholder.
+[2025-07-01 15:16:50] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Finished generating 67 test cases for 53 endpoints in 213.61 seconds.
+[2025-07-01 15:16:50] [INFO] [ai.test_case_generation.agents.TestGenerationNode] Metrics: {'total_endpoints': 53, 'total_test_cases': 67, 'success_cases': 12, 'failure_cases': 55, 'execution_time': 213.60599637031555}

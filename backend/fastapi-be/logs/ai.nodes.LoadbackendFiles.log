@@ -1,0 +1,6 @@
+[2025-06-29 13:46:18] [INFO] [ai.nodes.LoadbackendFiles] Cloning repository: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)...
+[2025-06-29 13:46:35] [INFO] [ai.nodes.LoadbackendFiles] Repo cloned successfully to: C:\Users\atul1\AppData\Local\Temp\cloned_repo_f62kholq
+[2025-06-29 13:46:36] [INFO] [ai.nodes.LoadbackendFiles] Loaded 74 backend files from cloned repo.
+[2025-06-29 13:49:23] [INFO] [ai.nodes.LoadbackendFiles] Cloning repository: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)...
+[2025-06-29 13:49:27] [INFO] [ai.nodes.LoadbackendFiles] Repo cloned successfully to: C:\Users\atul1\AppData\Local\Temp\cloned_repo__lrldfbm
+[2025-06-29 13:49:28] [INFO] [ai.nodes.LoadbackendFiles] Loaded 74 backend files from cloned repo.

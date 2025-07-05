@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: apidocs_mongo
+    restart: unless-stopped
+    ports:
+      - "27018:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: apidocs
+      MONGO_INITDB_ROOT_PASSWORD: 12345
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:

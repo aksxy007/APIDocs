@@ -1,0 +1,222 @@
+[2025-06-29 13:52:03] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 13:52:03] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 13:52:03] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 13:53:51] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 13:53:51] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 13:53:51] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 13:56:54] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 13:56:54] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 13:56:54] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 13:59:15] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 13:59:15] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 13:59:15] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:40:15] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:40:15] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:40:15] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:41:06] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:41:06] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:41:06] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:43:45] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:43:45] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:43:45] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:44:44] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:44:44] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:44:44] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:45:24] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:45:24] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:45:24] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:56:57] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:56:57] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:56:57] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:57:21] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:57:21] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:57:21] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 15:59:52] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 15:59:52] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 15:59:52] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:01:14] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:01:14] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:01:14] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:02:36] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:02:36] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:02:36] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:53:33] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:53:33] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:53:33] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:54:34] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:54:34] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:54:34] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:55:08] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:55:08] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:55:08] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:56:42] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:56:42] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:56:42] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:58:03] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:58:03] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:58:03] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 16:59:29] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 16:59:29] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 16:59:29] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:00:32] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:00:32] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:00:32] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:02:42] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:02:42] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:02:42] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:03:51] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:03:51] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:03:51] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:05:01] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:05:01] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:05:01] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:06:46] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:06:46] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:06:46] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:07:38] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:07:38] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:07:38] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:09:45] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:09:45] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:09:45] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:10:59] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:10:59] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:10:59] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:11:56] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:11:56] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:11:56] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 17:16:56] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 17:16:56] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 17:16:56] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-06-29 20:43:27] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 20:43:27] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 20:43:27] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-29 20:43:37] [ERROR] [routes.test_generation] Error during test generation: 1 validation error for TestCase
+test_cases
+  Input should be a valid dictionary [type=dict_type, input_value=[{'Items': [{'path': '/it...error': 'string'}}}}}]}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+[2025-06-29 20:43:57] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 20:43:57] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 20:43:57] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-29 20:44:06] [ERROR] [routes.test_generation] Error during test generation: 1 validation error for TestCase
+test_cases
+  Input should be a valid dictionary [type=dict_type, input_value=[{'Items': [{'path': '/it...error': 'string'}}}}}]}], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+[2025-06-29 20:46:09] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-29 20:46:09] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-29 20:46:09] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-29 20:48:09] [INFO] [routes.test_generation] Saving test cases for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql, branch: None, user: None
+[2025-06-29 20:48:09] [INFO] [routes.test_generation] Test cases inserted for https://github.com/tiangolo/full-stack-fastapi-postgresql
+[2025-06-30 21:50:21] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 21:50:21] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 21:50:21] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 21:50:57] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 21:50:57] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 21:50:57] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 21:51:47] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 21:51:47] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 21:51:47] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:00:08] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:00:08] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:00:08] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:04:38] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:04:38] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:04:38] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:05:52] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:05:52] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:05:52] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:06:47] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:06:47] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:06:47] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:11:23] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:11:23] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:11:23] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:14:14] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:14:14] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:14:14] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:17:27] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:17:27] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:17:27] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:21:03] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:21:03] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:21:03] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:45:23] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:45:23] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:45:23] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:47:00] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:47:00] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:47:00] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:47:42] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:47:42] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:47:42] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:48:29] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:48:29] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:48:29] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:49:01] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:49:01] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:49:01] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:50:03] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:50:03] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:50:03] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:52:08] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:52:08] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:52:08] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:53:17] [INFO] [routes.test_generation] Saving test cases for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql, branch: None, user: None
+[2025-06-30 22:53:17] [INFO] [routes.test_generation] Test cases updated for https://github.com/tiangolo/full-stack-fastapi-postgresql
+[2025-06-30 22:56:41] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:56:41] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:56:41] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:58:13] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 22:58:13] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 22:58:13] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 22:58:55] [ERROR] [routes.test_generation] Error during test generation: 'list' object has no attribute 'items'
+[2025-06-30 23:00:23] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-06-30 23:00:23] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-06-30 23:00:23] [INFO] [routes.test_generation] Successfully retrieved 10 endpoints for test generation.
+[2025-06-30 23:02:05] [INFO] [routes.test_generation] Saving test cases for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql, branch: None, user: None
+[2025-06-30 23:02:05] [INFO] [routes.test_generation] Test cases updated for https://github.com/tiangolo/full-stack-fastapi-postgresql
+[2025-07-01 11:18:49] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 11:18:49] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 11:18:49] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 11:19:48] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 11:19:48] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 11:19:48] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 11:20:12] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 11:20:12] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 11:20:12] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 11:56:56] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 11:56:56] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 11:56:56] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 12:15:38] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 12:15:38] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 12:15:38] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 12:22:01] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 12:22:01] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 12:22:01] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 12:27:17] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 12:27:17] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 12:27:17] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 12:38:39] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 12:38:39] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 12:38:39] [INFO] [routes.test_generation] Successfully retrieved 7 endpoints for test generation.
+[2025-07-01 13:28:51] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 13:28:51] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 13:28:51] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-07-01 14:03:48] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 14:03:48] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 14:03:48] [INFO] [routes.test_generation] Successfully retrieved 9 endpoints for test generation.
+[2025-07-01 14:11:15] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 14:11:15] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 14:11:15] [INFO] [routes.test_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-01 14:16:55] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 14:16:55] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 14:16:55] [INFO] [routes.test_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-01 14:25:33] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-01 14:25:33] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-01 14:25:33] [INFO] [routes.test_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-01 14:43:19] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-01 14:43:19] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-01 14:43:19] [INFO] [routes.test_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-01 15:13:17] [INFO] [routes.test_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-01 15:13:17] [INFO] [routes.test_generation] Processing test generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-01 15:13:17] [INFO] [routes.test_generation] Successfully retrieved 6 endpoints for test generation.

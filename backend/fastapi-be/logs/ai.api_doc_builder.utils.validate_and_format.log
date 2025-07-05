@@ -1,0 +1,4 @@
+[2025-07-05 19:42:38] [INFO] [ai.api_doc_builder.utils.validate_and_format] OpenAPI document is valid.
+[2025-07-05 19:46:14] [INFO] [ai.api_doc_builder.utils.validate_and_format] OpenAPI document is valid.
+[2025-07-05 19:49:51] [WARNING] [ai.api_doc_builder.utils.validate_and_format] Duplicate method `post` in path /login/access-token. Overwriting.
+[2025-07-05 19:49:51] [INFO] [ai.api_doc_builder.utils.validate_and_format] OpenAPI document is valid.

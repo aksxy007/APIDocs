@@ -1,0 +1,71 @@
+[2025-07-05 16:25:27] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 16:25:27] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 16:25:27] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 16:26:42] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 16:26:42] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 16:26:42] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 16:27:43] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 16:27:43] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 16:27:43] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 16:30:34] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 16:30:34] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 16:30:34] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:33:36] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:33:36] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:33:36] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:34:24] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:34:24] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:34:24] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:36:54] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:36:54] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:36:54] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:42:14] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:42:14] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:42:14] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:45:48] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:45:48] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:45:48] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:49:10] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:49:10] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:49:10] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:52:21] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:52:21] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:52:21] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 19:57:13] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 19:57:13] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 19:57:13] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 20:40:55] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 20:40:55] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 20:40:55] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 20:51:47] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 20:51:47] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 20:51:47] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 20:52:19] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/tiangolo/full-stack-fastapi-postgresql', 'branch': None}
+[2025-07-05 20:52:19] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/tiangolo/full-stack-fastapi-postgresql (branch: default)
+[2025-07-05 20:52:19] [INFO] [routes.api_doc_generation] Successfully retrieved 8 endpoints for test generation.
+[2025-07-05 21:02:45] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:02:45] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:02:45] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:06:26] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:06:26] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:06:26] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:07:32] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:07:32] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:07:32] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:08:58] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:08:58] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:08:58] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:16:35] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:16:35] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:16:35] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:25:55] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:25:55] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:25:55] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:27:11] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:27:11] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:27:11] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:29:19] [INFO] [routes.api_doc_generation] Received request for test generation: {'user_id': None, 'repo_url': 'https://github.com/aksxy007/instagreet-mern', 'branch': None}
+[2025-07-05 21:29:19] [INFO] [routes.api_doc_generation] Processing API Docs generation for repo: https://github.com/aksxy007/instagreet-mern (branch: default)
+[2025-07-05 21:29:19] [INFO] [routes.api_doc_generation] Successfully retrieved 6 endpoints for test generation.
+[2025-07-05 21:33:14] [INFO] [routes.api_doc_generation] Saving test cases for repo: https://github.com/aksxy007/instagreet-mern, branch: None, user: None
+[2025-07-05 21:33:14] [INFO] [routes.api_doc_generation] Test cases inserted for https://github.com/aksxy007/instagreet-mern
